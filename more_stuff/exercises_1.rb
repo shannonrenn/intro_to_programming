@@ -50,6 +50,9 @@ arr = [{animal: 'cat', animal: 'dog'}]
 
 
 #number 11
+After looking at a few Ruby api documentations including devdocs.io, ruby-doc.org, sketchup.com, and a few others I am most partial to devdocs.io. 
+I like that you can install it to use offline as well as easily switch between different language documentations. The ability to edit 
+which doucmentations I am viewing/searching also seems very useful. 
 
 #number 12
 contact_data = [["joe@email.com", "123 Main st.", "555-123-4567"],
